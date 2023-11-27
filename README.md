@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I am Kirithik, a student from IIT Madras. I am passionate about all things tech and building stuff. I am here to learn, grow 🌱, and build projects.
 
 <!--
 **KirithikRaj/KirithikRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+>A mind needs books like a sword needs a whetstone
